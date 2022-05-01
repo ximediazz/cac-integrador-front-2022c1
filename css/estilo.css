@@ -1,3 +1,22 @@
 .color-fondo{
     background-color: gray;
 }
+
+.fondo {
+    background-image:
+    url(../img/hawaii.jpg);
+    
+
+}
+ 
+.img-fluid {
+    height: 800px;
+    background-image: auto;
+    max-width: 100%;
+} 
+
+.test{
+    /* background-size: 100% 100%;
+    background-image:
+    url(../img/hawaii.jpg); */
+}
